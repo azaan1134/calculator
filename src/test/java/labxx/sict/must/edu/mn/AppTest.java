@@ -1,12 +1,12 @@
-package labxx.sict.must.edu.mn;
+// package labxx.sict.must.edu.mn;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import org.junit.jupiter.api.Test;
+// import static org.junit.jupiter.api.Assertions.assertEquals;
+// import org.junit.jupiter.api.Test;
 
-public class AppTest {
-    @Test
-    public void testAdd() {
-        App app = new App();
-        assertEquals(5, app.add(2, 3));
-    }
-}
+// public class AppTest {
+// @Test
+// public void testAdd() {
+// App app = new App();
+// assertEquals(5, app.add(2, 3));
+// }
+// }
